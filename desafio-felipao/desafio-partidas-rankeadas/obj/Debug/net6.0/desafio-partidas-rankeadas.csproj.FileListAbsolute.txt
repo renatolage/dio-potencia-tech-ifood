@@ -1,0 +1,15 @@
+/home/renato/Workspace/Cursos-DIO/Bootcamp-Ifood-Javascript/desafio-felipao/desafio-partidas-rankeadas/obj/Debug/net6.0/desafio-partidas-rankeadas.csproj.AssemblyReference.cache
+/home/renato/Workspace/Cursos-DIO/Bootcamp-Ifood-Javascript/desafio-felipao/desafio-partidas-rankeadas/obj/Debug/net6.0/desafio-partidas-rankeadas.GeneratedMSBuildEditorConfig.editorconfig
+/home/renato/Workspace/Cursos-DIO/Bootcamp-Ifood-Javascript/desafio-felipao/desafio-partidas-rankeadas/obj/Debug/net6.0/desafio-partidas-rankeadas.AssemblyInfoInputs.cache
+/home/renato/Workspace/Cursos-DIO/Bootcamp-Ifood-Javascript/desafio-felipao/desafio-partidas-rankeadas/obj/Debug/net6.0/desafio-partidas-rankeadas.AssemblyInfo.cs
+/home/renato/Workspace/Cursos-DIO/Bootcamp-Ifood-Javascript/desafio-felipao/desafio-partidas-rankeadas/obj/Debug/net6.0/desafio-partidas-rankeadas.csproj.CoreCompileInputs.cache
+/home/renato/Workspace/Cursos-DIO/Bootcamp-Ifood-Javascript/desafio-felipao/desafio-partidas-rankeadas/bin/Debug/net6.0/desafio-partidas-rankeadas
+/home/renato/Workspace/Cursos-DIO/Bootcamp-Ifood-Javascript/desafio-felipao/desafio-partidas-rankeadas/bin/Debug/net6.0/desafio-partidas-rankeadas.deps.json
+/home/renato/Workspace/Cursos-DIO/Bootcamp-Ifood-Javascript/desafio-felipao/desafio-partidas-rankeadas/bin/Debug/net6.0/desafio-partidas-rankeadas.runtimeconfig.json
+/home/renato/Workspace/Cursos-DIO/Bootcamp-Ifood-Javascript/desafio-felipao/desafio-partidas-rankeadas/bin/Debug/net6.0/desafio-partidas-rankeadas.dll
+/home/renato/Workspace/Cursos-DIO/Bootcamp-Ifood-Javascript/desafio-felipao/desafio-partidas-rankeadas/bin/Debug/net6.0/ref/desafio-partidas-rankeadas.dll
+/home/renato/Workspace/Cursos-DIO/Bootcamp-Ifood-Javascript/desafio-felipao/desafio-partidas-rankeadas/bin/Debug/net6.0/desafio-partidas-rankeadas.pdb
+/home/renato/Workspace/Cursos-DIO/Bootcamp-Ifood-Javascript/desafio-felipao/desafio-partidas-rankeadas/obj/Debug/net6.0/desafio-partidas-rankeadas.dll
+/home/renato/Workspace/Cursos-DIO/Bootcamp-Ifood-Javascript/desafio-felipao/desafio-partidas-rankeadas/obj/Debug/net6.0/ref/desafio-partidas-rankeadas.dll
+/home/renato/Workspace/Cursos-DIO/Bootcamp-Ifood-Javascript/desafio-felipao/desafio-partidas-rankeadas/obj/Debug/net6.0/desafio-partidas-rankeadas.pdb
+/home/renato/Workspace/Cursos-DIO/Bootcamp-Ifood-Javascript/desafio-felipao/desafio-partidas-rankeadas/obj/Debug/net6.0/desafio-partidas-rankeadas.genruntimeconfig.cache
